@@ -1,0 +1,13 @@
+.home-content{
+    flex-grow: 1;
+}
+iframe{
+    border-radius: 0.3rem;
+    position:fixed;
+    width: 26rem;
+    height: 30rem;
+    bottom: 1vh;
+    right: 1vw;
+    border: solid 0.14rem black;
+
+}

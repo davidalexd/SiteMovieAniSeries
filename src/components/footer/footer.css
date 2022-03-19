@@ -1,0 +1,7 @@
+footer{
+    padding: 1rem;
+    background:grey;
+    min-width: 100vh;
+    min-height: 10vh;
+    text-align: center;
+}
